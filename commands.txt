@@ -1,0 +1,7 @@
+612892508509
+
+sls deploy -v
+
+sls remove -v
+
+sls deploy -f createAuction -v  //for deploying an speciefic function
